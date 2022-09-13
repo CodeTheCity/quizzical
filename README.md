@@ -7,6 +7,21 @@ The project consists of:
 * 64 x 32 dot matrix pixel display controlled by an ESP32 microcontroller
 * a set of 5 phyiscal buttons connected to an ESP32 microcontroller
 
+
+## [ESP32_RGB_Dot_Matrix_Quizzical](ESP32_Buttons_HTTP)
+
 The display ESP32 acts as central hub running an HTTP server.
 
+
+## [ESP32_Buttons_HTTP](ESP32_RGB_Dot_Matrix_Quizzical)
+
 The buttons ESP32 acts as a client and sends button press information to the central hub via HTTP.
+
+## Notes
+
+It should be noted that this project was thrown together over a hackweekend using existing hardware and software as a base. The software evolved over the weekend and is very much proof of concept make stuff work rather than carefully designed. i.e. if the coding style upsets you then feel free to rewrite it or come along to the next [CodeTheCity](https://www.codethecity.org) event and help make cleaner code ;) 
+
+
+## To Do
+
+Photographs and circuit diagrams are still to be added.
