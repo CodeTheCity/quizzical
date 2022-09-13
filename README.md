@@ -24,4 +24,4 @@ It should be noted that this project was thrown together over a hackweekend usin
 
 ## To Do
 
-Photographs and circuit diagrams are still to be added.
+Photographs, circuit diagrams and operating instructions are still to be added. However if you are here for the fun then I'm sure you can work it out.
