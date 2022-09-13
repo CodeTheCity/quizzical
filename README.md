@@ -24,4 +24,14 @@ It should be noted that this project was thrown together over a hackweekend usin
 
 ## To Do
 
+### Build instructions
+
 Photographs, circuit diagrams and operating instructions are still to be added. However if you are here for the fun then I'm sure you can work it out.
+
+### Roadmap
+
+* Add web frontend to central hub to allow questions to be uploaded
+* Add score keeping
+* Add turn based multiple players
+* Add "first to buzz" multiple players
+* Add sound
