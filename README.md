@@ -21,6 +21,7 @@ The buttons ESP32 acts as a client and sends button press information to the cen
 
 It should be noted that this project was thrown together over a hackweekend using existing hardware and software as a base. The software evolved over the weekend and is very much proof of concept make stuff work rather than carefully designed. i.e. if the coding style upsets you then feel free to rewrite it or come along to the next [CodeTheCity](https://www.codethecity.org) event and help make cleaner code ;) 
 
+There is a [video](https://youtu.be/iUcV1rgR-5A) of the final presentation at the event demonstrating the Quizzical machine.
 
 ## To Do
 
